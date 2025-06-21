@@ -23,11 +23,7 @@ YixingAdsdk is a lightweight SDK that allows developers to easily integrate inte
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'YixingAdsdk/Sources/**/*'
+  s.source_files = 'YixingAdsdk/Sources/YixingAdsdk/*.swift'
   
-  s.resource_bundles = {
-    'YixingAdsdk' => ['YixingAdsdk/Assets/*.png']
-  }
-
   s.frameworks = 'UIKit'
 end
