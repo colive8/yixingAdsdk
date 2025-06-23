@@ -1,0 +1,16 @@
+PODS:
+  - YixingAdsdk (0.1.0)
+
+DEPENDENCIES:
+  - YixingAdsdk (from `../../../YixingAdsdk`)
+
+EXTERNAL SOURCES:
+  YixingAdsdk:
+    :path: "../../../YixingAdsdk"
+
+SPEC CHECKSUMS:
+  YixingAdsdk: 894ee650ea0f693ea77980c14f19374b441870fa
+
+PODFILE CHECKSUM: 0efa375bcb32b831731e801507a788a0454a4bb4
+
+COCOAPODS: 1.16.2
